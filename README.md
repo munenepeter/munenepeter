@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning PHP & Laravel
 - 💬 Ask me about Web Development with PHP
 - 📫 How to reach me: munenenjega@gmail.com
-- ⚡ Fun fact: I'm short
